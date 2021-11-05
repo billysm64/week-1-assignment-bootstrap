@@ -1,0 +1,24 @@
+{
+  "name": "week-1-assignment-bootstrap",
+  "version": "1.0.0",
+  "description": "",
+  "main": "aboutus.html",
+  "scripts": {
+    "start": "npm run lite",
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "lite": "lite-server"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/billysm64/week-1-assignment-bootstrap.git"
+  },
+  "author": "Billy",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/billysm64/week-1-assignment-bootstrap/issues"
+  },
+  "homepage": "https://github.com/billysm64/week-1-assignment-bootstrap#readme",
+  "devDependencies": {
+    "lite-server": "^2.6.1"
+  }
+}
